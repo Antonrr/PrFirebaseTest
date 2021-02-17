@@ -1,0 +1,3 @@
+[submodule "Plugins/PrFirebase"]
+	path = Plugins/PrFirebase
+	url = git@github.com:Antonrr/PrFirebase.git
